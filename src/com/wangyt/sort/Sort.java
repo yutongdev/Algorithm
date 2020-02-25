@@ -32,4 +32,8 @@ public class Sort {
 		
 		return a;
 	}
+	
+	public static int[] sort() {
+		return null;
+	}
 }
