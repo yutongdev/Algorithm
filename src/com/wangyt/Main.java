@@ -11,4 +11,5 @@ public class Main {
 		Sort.selectSort(a, a.length);
 		System.out.println( Arrays.toString(a) );
 	}
+
 }
